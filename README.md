@@ -5,6 +5,9 @@
 <h1>Description</h1><br>
 Hello and welcome to challenge number 9 where the task was to create a README generator using node. When I would put the command node index.js in the terminal, it will ask you a series of questions and your answers would be put into their respected sections for a README. Once all questions are answered, a new README file will be created as you will see in the files.<br>
 
+<h1>Instructions</h1><br>
+Run npm i in the terminal then type the command node index.js
+
 ![](Images/Screenshot%202022-08-02%20221814.png)
 
 <h1>Video of full walkthrough</h1><br>
