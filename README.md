@@ -9,6 +9,7 @@ Hello and welcome to challenge number 9 where the task was to create a README ge
 Run npm i in the terminal then type the command node index.js
 
 <h1>Screenshot</h1><br>
+
 ![](Images/Screenshot%202022-08-02%20221814.png)
 
 <h1>Video of full walkthrough</h1><br>
